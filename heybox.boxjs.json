@@ -3,14 +3,14 @@
   "name": "zZPiglet 应用订阅",
   "author": "@zZPiglet",
   "icon": "https://raw.githubusercontent.com/zZPiglet/Task/master/img/fly.gif",
-  "repo": "https://github.com/zZPiglet/Task",
+  "repo": "https://github.com/zeerdeer/Heybox",
   "apps": [
     
     {
       "id": "zZ.heybox",
       "name": "小黑盒",
       "descs_html": [
-        "请先按<a href=\"https://raw.githubusercontent.com/zeerdeer/heybox/heybox.js\">脚本注释</a>进行配置，然后进入\"小黑盒\" - \"我\"，若弹出\"首次写入 heybox Cookie 成功\"即可正常食用。",
+        "请先按<a href=\"https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js\">脚本注释</a>进行配置，然后进入\"小黑盒\" - \"我\"，若弹出\"首次写入 heybox Cookie 成功\"即可正常食用。",
         "请注意：不要在脚本执行前手动对首页中文章进行点赞。若仍出现「点赞完成失败：操作已经完成」，可尝试加大点赞间隔，若依旧无法解决，请反馈至 <a href=\"https://t.me/zZPiglet_bot\">@zZPiglet_bot</a>。"
       ],
       "keys": ["@heybox.pkey", "@heybox.lang", "@heybox.os_t", "@heybox.os_v", "@heybox.v", "@heybox.d_id", "@heybox.h_id"],
@@ -82,8 +82,8 @@
         }
       ],
       "author": "@zZPiglet",
-      "repo": "https://github.com/zeerdeer/heybox/heybox.js",
-      "script": "https://raw.githubusercontent.com/zeerdeer/heybox/heybox.js",
+      "repo": "https://github.com/zeerdeer/Heybox/blob/main/Heybox.js",
+      "script": "https://raw.githubusercontent.com/zeerdeer/Heybox/main/Heybox.js",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/heybox.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/heybox.png"
